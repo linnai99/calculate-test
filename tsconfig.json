@@ -1,0 +1,11 @@
+{
+    "ts-node": {
+        "swc": true,
+        "esm": true,
+        "projectSearchDir": "src",
+    },
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "target": "ES6"
+    }
+}
